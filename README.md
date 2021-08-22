@@ -14,6 +14,9 @@
 
 #### > Run : `python2 afgcrack.py`
 
+#### > USER : `cra3k`
+#### > PASS : `Mustafa`
+
 
 ## Single Command :
 ```
